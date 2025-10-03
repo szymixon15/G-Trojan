@@ -9,7 +9,7 @@ python venv .venv
 i odpalac interpreter z tego srodowiska wirtualnego (Nie uzywac systemowego srodowiska pythona!)
 
 ```
-pip install -r requirements.txt
-alembic init alembic
+(.venv) pip install -r requirements.txt
+(.venv) alembic init alembic
 ```
 
