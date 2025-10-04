@@ -1,5 +1,5 @@
 # G-Trojan
-Repository for HackYeah2025 in Cracov
+Repository for HackYeah2025 in Cracow
 
 Instalacja:
 Najlepiej użyć virtual env:
